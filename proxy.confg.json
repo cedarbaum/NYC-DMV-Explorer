@@ -1,0 +1,10 @@
+{
+    "/api": {
+      "target": "https://nysdmvqw.us.qmatic.cloud/qwebbook/rest/schedule",
+      "secure": true,
+      "changeOrigin": true,
+      "pathRewrite": {
+        "^/api": ""
+      }
+    }
+  }
