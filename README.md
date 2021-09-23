@@ -1,6 +1,8 @@
 # NYC DMV Appointment Explorer
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
+Simple Angular app to view upcoming DMV appointments on a calendar.
+
+![](./readme_image.png)
 
 ## Development server
 
